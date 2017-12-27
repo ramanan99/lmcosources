@@ -1,0 +1,31 @@
+Archive:  SNMPDebugger.jar
+PACK200
+  Length     Date   Time    Name
+ --------    ----   ----    ----
+     3227  04-09-02 14:11   META-INF/MANIFEST.MF
+        0  04-09-02 14:11   com/
+        0  04-09-02 14:11   com/adventnet/
+        0  04-09-02 14:11   com/adventnet/afp/
+        0  04-09-02 14:11   com/adventnet/afp/log/
+      353  04-09-02 14:11   com/adventnet/afp/log/LogLevel.class
+      835  04-09-02 14:11   com/adventnet/afp/log/LogException.class
+      523  04-09-02 14:11   com/adventnet/afp/log/ConsoleLog.class
+     4487  04-09-02 14:11   com/adventnet/afp/log/FileUtil.class
+     2908  04-09-02 14:11   com/adventnet/afp/log/LoggerProperties.class
+     2537  04-09-02 14:11   com/adventnet/afp/log/LogWriterProperties.class
+      291  04-09-02 14:11   com/adventnet/afp/log/LogConfigReader.class
+      437  04-09-02 14:11   com/adventnet/afp/log/LogConfigWriter.class
+      609  04-09-02 14:11   com/adventnet/afp/log/LogWriter.class
+      642  04-09-02 14:11   com/adventnet/afp/log/Logger.class
+     1261  04-09-02 14:11   com/adventnet/afp/log/AbstractLogWriter.class
+     2040  04-09-02 14:11   com/adventnet/afp/log/AbstractLogger.class
+     2175  04-09-02 14:11   com/adventnet/afp/log/DefaultLogger.class
+     6927  04-09-02 14:11   com/adventnet/afp/log/LogFactory.class
+      413  04-09-02 14:11   com/adventnet/afp/log/LogPrintWriter.class
+    14262  04-09-02 14:11   com/adventnet/afp/log/FileLogWriter.class
+     3662  04-09-02 14:11   com/adventnet/afp/log/FileLogWriter$1.class
+     3105  04-09-02 14:11   com/adventnet/afp/log/LoggerImpl.class
+     6795  04-09-02 14:11   com/adventnet/afp/log/LogConfigFileReader.class
+     8956  04-09-02 14:11   com/adventnet/afp/log/LogConfigFileWriter.class
+ --------                   -------
+    66445                   25 files
