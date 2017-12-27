@@ -1,0 +1,7 @@
+grep -re "com.adventnet.builder.migration" * | grep "package" | grep -v "\/\/" | grep -v "\*"| grep "ClassPathDetails.java"
+grep -re "com.adventnet.builder.migration" * | grep "package" | grep -v "\/\/" | grep -v "\*"| grep "MibDetialsPanel.java"
+grep -re "com.adventnet.builder.migration" * | grep "package" | grep -v "\/\/" | grep -v "\*"| grep "MigrationDetailsPanel.java"
+grep -re "com.adventnet.builder.migration" * | grep "package" | grep -v "\/\/" | grep -v "\*"| grep "MigrationWizard.java"
+grep -re "com.adventnet.builder.migration" * | grep "package" | grep -v "\/\/" | grep -v "\*"| grep "ProjectDetailPanel.java"
+grep -re "com.adventnet.builder.migration" * | grep "package" | grep -v "\/\/" | grep -v "\*"| grep "RegenerationClasspath.java"
+grep -re "com.adventnet.builder.migration" * | grep "package" | grep -v "\/\/" | grep -v "\*"| grep "logPanel.java"
